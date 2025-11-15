@@ -4,22 +4,17 @@ Aplikasi kalkulator sederhana yang dibangun menggunakan Flutter untuk melakukan 
 
 ## 📱 Screenshot
 
-```
-┌─────────────────────────────────┐
-│  Kalkulator Flutter             │
-├─────────────────────────────────┤
-│                                 │
-│                    125 + 75     │
-│                           200   │
-│                                 │
-├─────────────────────────────────┤
-│  C   │  ⌫   │  ÷   │  ×   │
-│  7   │  8   │  9   │  -   │
-│  4   │  5   │  6   │  +   │
-│  1   │  2   │  3   │  =   │
-│  0        │  .   │      │      │
-└─────────────────────────────────┘
-```
+### Tampilan Awal Aplikasi
+![Tampilan Awal](screenshots/Awal.png)
+*Gambar: Tampilan awal aplikasi dengan display menampilkan angka 0*
+
+### Proses Perhitungan
+![Proses Perhitungan](screenshots/screenshot_2.png)
+*Gambar: Aplikasi saat melakukan input perhitungan 125 + 75*
+
+### Hasil Perhitungan
+![Hasil Perhitungan](screenshots/screenshot_3.png)
+*Gambar: Hasil perhitungan yang ditampilkan (200)*
 
 ## ✨ Fitur
 
